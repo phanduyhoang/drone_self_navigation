@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+method_logs/
+magicpoint/superpoint_v1.pth
+SuperGluePretrainedNetwork-master/
+
